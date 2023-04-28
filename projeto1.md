@@ -8,12 +8,16 @@
   
   #### Área de desenvolvimento
   
-  - Local onde estão todos os meus arquivos dentro do meu computador.
-  
-  #### 
+  - Local onde estão todos os meus arquivos dentro do meu computador. 
   
   #### Repositório Local
   
   - Local em meu computador onde as versões/modificações do projeto, ficam armazenadas, sendo controlatas pelo git.
+  
+  #### Staging area
+  
+  - Área de transferência, onde a gente adiciona os arquivos e modificações antes de enviar para o repositório local.
 
 
+
+_obs: se eu der o commit sem o -m e a descrição o arquivo não vai_
