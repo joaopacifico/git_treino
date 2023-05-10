@@ -21,8 +21,6 @@
 
 _obs: se eu der o commit sem o -m e a descrição o arquivo não vai_
 
-
-
 #### .gitignore
 
 Um arquivo que deve conter todos os arquivos o dados que devem ser ignorado no commit, ou seja, que não irão aparecer no github. Nele posso indicar quais extensões ou arquivos individuais devem ser ignorados.
