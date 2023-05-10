@@ -16,4 +16,6 @@
   
   - Cria uma ponte entre o repositório local e o github. A "ponte" não envia os arquivos. É preciso enviar os arquivos.
     
-    Para enviar: git push  
+    Para enviar: git push
+    
+    Para receber atualizações do remoto: git pull  
