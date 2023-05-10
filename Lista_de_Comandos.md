@@ -23,5 +23,3 @@
     
     
     Git clone recupera todo o repositório remoto a partir do endereço ssh. Diferentemente do git pull, ele traz todo o repositório criando a ponte ao mesmo tempo e não apenas as alterações como o git pull faz.
-  
-  #################
