@@ -19,6 +19,4 @@
   - Área de transferência, onde a gente adiciona os arquivos e modificações antes de enviar para o repositório local.
   - A necessidade de se transferir para a staging área existe pois ela permite adicionar um ou mais arquivos, para que esses sejam incluídos juntos na linha do tempo, ou ainda que se selecione apenas um arquivo para isto.
 
-
-
 _obs: se eu der o commit sem o -m e a descrição o arquivo não vai_
